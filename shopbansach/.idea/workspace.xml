@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="447b9afa-7eaf-4ade-aa9d-00f4cb8bd939" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADCBook" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/.settings/org.springframework.ide.eclipse.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/src/main/java/com/core/config/JPAConf.java" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/src/main/java/com/core/config/JPAConf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/src/main/java/com/core/entities/CartItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/src/main/java/com/core/entities/CartItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/src/main/java/com/core/entities/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/src/main/java/com/core/entities/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/src/main/java/com/core/entities/OrderProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/src/main/java/com/core/entities/OrderProducts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/src/main/java/com/core/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/src/main/java/com/core/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/META-INF/maven/com.core/BECore/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/META-INF/maven/com.core/BECore/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/StartService.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/StartService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/common/ProductSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/common/ProductSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/config/JPAConf.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/config/JPAConf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/admin/AdminCartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/admin/AdminCartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/admin/AdminOrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/admin/AdminOrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/admin/AdminProductController$ProductInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/admin/AdminProductController$ProductInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/admin/AdminProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/admin/AdminProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/admin/AdminRoleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/admin/AdminRoleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/admin/AdminSaleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/admin/AdminSaleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/admin/ReportController.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/admin/ReportController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/admin/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/admin/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/users/BaseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/users/BaseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/users/CommentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/controller/users/CommentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/AjaxResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/AjaxResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/BaseEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/BaseEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/CartItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/CartItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/Comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/Comment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/Contact.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/Contact.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/OrderProducts.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/OrderProducts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/ProductImages.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/ProductImages.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/ReportOrderDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/ReportOrderDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/Sale.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/entities/Sale.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/repositories/CategoryRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/repositories/CategoryRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/repositories/CommentRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/repositories/CommentRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/repositories/ContactRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/repositories/ContactRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/repositories/OrderProductsRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/repositories/OrderProductsRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/repositories/OrderRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/repositories/OrderRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/repositories/ProductRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/repositories/ProductRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/repositories/RoleRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/repositories/RoleRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/repositories/SaleRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/repositories/SaleRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/repositories/UserRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/repositories/UserRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/service/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/service/CategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/service/CategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/service/CategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/service/CommentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/service/CommentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/service/CommentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/service/CommentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/service/ContactService.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/service/ContactService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/service/ContactServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/service/ContactServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/service/OrderProductsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/service/OrderProductsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/service/OrderProductsServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/service/OrderProductsServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/service/OrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/service/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/service/OrderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/service/ProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/service/RoleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/service/RoleService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/service/RoleServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/service/RoleServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/service/SaleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/service/SaleService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/service/SaleServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/service/SaleServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BECore/target/classes/com/core/service/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/BECore/target/classes/com/core/service/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/.settings/org.springframework.ide.eclipse.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/java/com/portal/GeneratePassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/java/com/portal/GeneratePassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/java/com/portal/config/JPAConf.java" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/java/com/portal/config/JPAConf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/java/com/portal/controller/admin/EmailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/java/com/portal/controller/admin/EmailController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/java/com/portal/controller/users/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/java/com/portal/controller/users/CartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/java/com/portal/entities/CartItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/java/com/portal/entities/CartItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/java/com/portal/entities/OrderProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/java/com/portal/entities/OrderProducts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/java/com/portal/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/java/com/portal/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/java/com/portal/service/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/java/com/portal/service/Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/resources/META-INF/img/banner-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/resources/META-INF/img/banner-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/resources/META-INF/img/bg1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/resources/META-INF/img/bg1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/resources/META-INF/img/bg2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/resources/META-INF/img/bg2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/resources/META-INF/img/bg3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/resources/META-INF/img/bg3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/resources/META-INF/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/resources/META-INF/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/resources/META-INF/img/ss.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/resources/META-INF/img/ss.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/admin/order/order-detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/admin/order/order-detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/admin/product/add-product.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/admin/product/add-product.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/admin/product/edit-product.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/admin/product/edit-product.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/blog.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/blog.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/cart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/checkout.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/checkout.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/common/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/common/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/common/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/common/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/contact.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/contact.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/error.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/error.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/finish.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/finish.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/product-detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/product-detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/shop.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/src/main/webapp/WEB-INF/views/users/shop.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/META-INF/img/banner-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/META-INF/img/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/META-INF/img/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/META-INF/img/bg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/META-INF/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/META-INF/img/ss.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/GeneratePassword.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/GeneratePassword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/StartWeb.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/StartWeb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/common/ProductSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/common/ProductSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/config/CustomAccessDeniedHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/config/CustomAccessDeniedHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/config/JPAConf.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/config/JPAConf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/config/MVCConf.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/config/MVCConf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/config/SecureConf.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/config/SecureConf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/AccessDeniedController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/AccessDeniedController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/AdminCategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/AdminCategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/AdminOrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/AdminOrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/AdminProductController$ProductInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/AdminProductController$ProductInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/AdminProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/AdminProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/AdminRoleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/AdminRoleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/AdminSaleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/AdminSaleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/AminContactController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/AminContactController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/ChatController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/ChatController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/EmailController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/EmailController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/ReportController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/ReportController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/admin/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/users/BlogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/users/BlogController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/users/CartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/users/CartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/users/CommentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/users/CommentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/users/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/users/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/users/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/users/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/users/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/users/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/users/ShopController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/controller/users/ShopController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/AjaxResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/AjaxResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/BaseEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/BaseEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/CartItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/CartItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/Comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/Comment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/Contact.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/Contact.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/ListMess.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/ListMess.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/OrderProducts.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/OrderProducts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/ProductImages.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/ProductImages.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/ReportOrderDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/ReportOrderDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/Sale.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/entities/Sale.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/repositories/CategoryRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/repositories/CategoryRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/repositories/OrderProductRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/repositories/OrderProductRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/repositories/OrderRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/repositories/OrderRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/repositories/ProductRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/repositories/ProductRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/service/Email.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/service/Email.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/service/UserDetailsServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/service/UserDetailsServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/classes/com/portal/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/classes/com/portal/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/m2e-wtp/web-resources/META-INF/maven/com.portal/Portal/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/m2e-wtp/web-resources/META-INF/maven/com.portal/Portal/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/target/test-classes/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/Portal/target/test-classes/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/upload/a1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/upload/a10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/upload/a2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/upload/a3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/upload/c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/upload/d1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/upload/d2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/upload/q1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/upload/q10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/upload/q2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/upload/q3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/upload/set1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/upload/t1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portal/upload/t2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2RMX5GZIspRKnNE9HPqrNQwfD8F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "dev",
+    "last_opened_file_path": "D:/do_an/shopbansach/Portal/src/main/resources/META-INF/img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Facets",
+    "project.structure.proportion": "0.14941406",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "70a4a7389ba473951f140b92abea15e2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\do_an\shopbansach\Portal\src\main\resources\META-INF\img" />
+      <recent name="D:\do_an\shopbansach\Portal\target\classes\META-INF\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StartWeb">
+    <configuration name="StartService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="BECore" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.core.StartService" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartWeb" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Portal" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.portal.StartWeb" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/Portal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.portal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.StartService" />
+      <item itemvalue="Spring Boot.StartWeb" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.StartWeb" />
+        <item itemvalue="Spring Boot.StartService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="447b9afa-7eaf-4ade-aa9d-00f4cb8bd939" name="Changes" comment="" />
+      <created>1687060750680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687060750680</updated>
+      <workItem from="1687060751711" duration="3026000" />
+      <workItem from="1691827945965" duration="93000" />
+      <workItem from="1692019162326" duration="72000" />
+      <workItem from="1694957879180" duration="48000" />
+      <workItem from="1695051268269" duration="12853000" />
+      <workItem from="1695104112332" duration="1571000" />
+      <workItem from="1695110877312" duration="2283000" />
+      <workItem from="1695116736010" duration="929000" />
+      <workItem from="1695117777935" duration="5344000" />
+      <workItem from="1695124116553" duration="7096000" />
+      <workItem from="1695186375931" duration="5873000" />
+      <workItem from="1695566949019" duration="2372000" />
+      <workItem from="1695570677503" duration="4320000" />
+      <workItem from="1696158180706" duration="5079000" />
+      <workItem from="1696259752953" duration="1853000" />
+      <workItem from="1696294424381" duration="1253000" />
+      <workItem from="1703158015307" duration="654000" />
+      <workItem from="1703590100753" duration="536000" />
+      <workItem from="1703607231658" duration="1296000" />
+      <workItem from="1703608683898" duration="7101000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
